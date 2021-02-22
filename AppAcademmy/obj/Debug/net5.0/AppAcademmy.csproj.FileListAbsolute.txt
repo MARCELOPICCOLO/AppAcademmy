@@ -1,0 +1,8 @@
+D:\projetos antigos\Projeto Asp\AppAcademmy\obj\Debug\net5.0\AppAcademmy.csprojAssemblyReference.cache
+D:\projetos antigos\Projeto Asp\AppAcademmy\obj\Debug\net5.0\AppAcademmy.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos antigos\Projeto Asp\AppAcademmy\obj\Debug\net5.0\AppAcademmy.AssemblyInfoInputs.cache
+D:\projetos antigos\Projeto Asp\AppAcademmy\obj\Debug\net5.0\AppAcademmy.AssemblyInfo.cs
+D:\projetos antigos\Projeto Asp\AppAcademmy\obj\Debug\net5.0\AppAcademmy.csproj.CoreCompileInputs.cache
+D:\projetos antigos\Projeto Asp\AppAcademmy\obj\Debug\net5.0\AppAcademmy.MvcApplicationPartsAssemblyInfo.cache
+D:\projetos antigos\Projeto Asp\AppAcademmy\obj\Debug\net5.0\AppAcademmy.RazorAssemblyInfo.cache
+D:\projetos antigos\Projeto Asp\AppAcademmy\obj\Debug\net5.0\AppAcademmy.RazorAssemblyInfo.cs
