@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using AppAcademmy.Models;
+using AppAcademmy;
 
 namespace AppAcademmy.Controllers
 {
@@ -20,7 +21,13 @@ namespace AppAcademmy.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            List<Client> data = new List<Client>();
+            using (var context = new AppAcademmyContext())
+            {
+                data = context.clients.ToList();
+            }
+
+            return View(data);
         }
 
         public IActionResult Privacy()
